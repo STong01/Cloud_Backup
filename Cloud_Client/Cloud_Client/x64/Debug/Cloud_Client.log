@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/4/15 13:40:44。
+     1>项目“C:\Users\Administrator\Desktop\-1\Cloud_Client\Cloud_Client\Cloud_Client.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\S文件\VC\bin\x86_amd64\CL.exe /c /IE:\boost\boost_1_70_0 /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt cloud_client.cpp
+         cloud_client.cpp
+       Link:
+         E:\S文件\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\-1\Cloud_Client\x64\Debug\Cloud_Client.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\boost\boost_1_70_0\lib64-msvc-12.0" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\-1\Cloud_Client\x64\Debug\Cloud_Client.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\-1\Cloud_Client\x64\Debug\Cloud_Client.lib" /MACHINE:X64 x64\Debug\cloud_client.obj
+         Cloud_Client.vcxproj -> C:\Users\Administrator\Desktop\-1\Cloud_Client\x64\Debug\Cloud_Client.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\-1\Cloud_Client\Cloud_Client\Cloud_Client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.16
